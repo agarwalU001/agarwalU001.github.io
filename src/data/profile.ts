@@ -15,6 +15,7 @@ export const profile = {
     "Alongside my full-time work, I train and stress-test AI models as a freelance coding evaluator with Surge AI and DataAnnotation.tech.",
     "I care about the parts users feel and the parts they never see: interfaces that load in a blink, APIs that stay secure under pressure, and codebases the next engineer is happy to inherit.",
   ],
+  site: "https://utkarsh-agarwal.me",
   links: {
     github: "https://github.com/agarwalU001",
     linkedin: "https://www.linkedin.com/in/utkarsh001",

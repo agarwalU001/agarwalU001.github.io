@@ -21,6 +21,8 @@ const instrumentSerif = Instrument_Serif({
 });
 
 export const metadata: Metadata = {
+  metadataBase: new URL("https://utkarsh-agarwal.me"),
+  alternates: { canonical: "/" },
   title: "Utkarsh Agarwal | Full-Stack Software Engineer",
   description:
     "Utkarsh Agarwal is a full-stack software engineer in Hyderabad building fast, secure enterprise web platforms with Java, Angular, React and micro-frontends. Available for freelance projects.",
